@@ -5,3 +5,5 @@ def dif_files():
 
 
 dif_files()
+
+print("Close all files")
